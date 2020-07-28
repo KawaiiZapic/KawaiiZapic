@@ -4,7 +4,7 @@
 **I'm kawaii,money please.**
 
 ### 干啥啥不行,丢人第一名.  
-![\(](https://cdn.jsdelivr.net/gh/KawaiiZapic/KawaiiZapic/\(.gif)
+![\(](https://github.com/KawaiiZapic/KawaiiZapic/blob/master/\(.gif?raw=true)  
 无名PHPer/CSSer/Javascripter,前后端三件套一把梭,还会`rm -rf`,`DROP DATABASE mysql`,算是个半栈工程师.  
 喜欢`可爱的`,`好吃的`,`可爱又好吃的`.  
 Now target on Mirai-PHP,which based on Swoole + PHP7.  
