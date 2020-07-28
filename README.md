@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 我很可爱,请给我钱
-## I'm kawaii,money please.
+**I'm kawaii,money please.**
 
 ### 干啥啥不行,丢人第一名.  
 无名PHPer/CSSer/Javascripter,前后端三件套一把梭,还会`rm -rf`,`DROP DATABASE mysql`,算是个半栈工程师.  
