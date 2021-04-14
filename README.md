@@ -7,7 +7,7 @@
 ![\(](https://github.com/KawaiiZapic/KawaiiZapic/blob/master/\(.gif?raw=true)  
 无名PHPer/CSSer/Javascripter,前后端三件套一把梭,还会`rm -rf`,`DROP DATABASE mysql`,算是个半栈工程师.  
 喜欢`可爱的`,`好吃的`,`可爱又好吃的`.  
-Now target on Mirai-PHP,which based on Swoole + PHP7.  
+Now working in SBBBS,as a frontend developer.  
 对,还喜欢说散装英语.
 
 以上,欢迎[来跟我扯犊子](https://i.zapic.cc/).  
