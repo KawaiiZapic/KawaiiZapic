@@ -1,29 +1,16 @@
-### Hi there 👋
+### Hi there👋, money plz
+> 干啥啥不行,丢人第一名
+<img src="https://github.com/KawaiiZapic/KawaiiZapic/blob/master/\(.gif?raw=true" align="right"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=KawaiiZapic&show_icons=true&icon_color=E91E63&title_color=FB7299&hide_border=true&locale=cn" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawaiiZapic&layout=compact&title_color=000000&hide_border=true&locale=cn" />  
 
-# 我很可爱,请给我钱
-**I'm kawaii,money please.**
-
-### 干啥啥不行,丢人第一名.  
-![\(](https://github.com/KawaiiZapic/KawaiiZapic/blob/master/\(.gif?raw=true)  
 无名PHPer/CSSer/Javascripter,前后端三件套一把梭,还会`rm -rf`,`DROP DATABASE mysql`,算是个半栈工程师.  
 喜欢`可爱的`,`好吃的`,`可爱又好吃的`.  
 Now working in SBBBS,as a frontend developer.  
 对,还喜欢说散装英语.
 
-以上,欢迎[来跟我扯犊子](https://i.zapic.cc/).  
-![Stats](https://github-readme-stats.vercel.app/api?username=KawaiiZapic&show_icons=true&icon_color=FB7299&title_color=FB7299)  ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=KawaiiZapic&layout=compact&title_color=FB7299)  
-~~setu ufmede zvbhle!~~
-<!--
-**KawaiiZapic/KawaiiZapic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me at:  
+\- [Home](https://i.zapic.moe/)  
+\- [Blog](https://blog.zapic.moe/)  
+\- [Twitter](https://twitter.com/KawaiiZapic)  
+\- [Telegram](https://t.me/joinchat/Lfc1KhUVoHqOMYlBAZobrw)
