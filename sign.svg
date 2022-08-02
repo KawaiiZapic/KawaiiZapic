@@ -33,7 +33,7 @@
                 position: absolute;
                 top: -100px;
                 animation: into-ball-ani .5s forwards;
-                animation-delay: 1s;
+                animation-delay: 5s;
                 left: calc(50% - 50px);
                 background-color: #e91e63;
                 border-radius: 50%;
@@ -42,12 +42,12 @@
             .into-2 {
                 visibility: hidden;
                 animation: into-2-ani 1s forwards;
-                animation-delay: 1.5s;
+                animation-delay: 6.5s;
             }
 
             .into-2-stage-right {
                 animation: into-2-right-ani .5s forwards;
-                animation-delay: 1.75s;
+                animation-delay: 6.75s;
                 background: #e91e63;
                 width: 700px;
                 height: 700px;
@@ -61,7 +61,7 @@
             .into-2-self-wrapper {
                 opacity: 0;
                 animation: into-2-self-wrapper-ani .5s forwards;
-                animation-delay: 2s;
+                animation-delay: 7s;
                 color: white;
                 text-align: center;
                 font-size: 1.5rem;
@@ -94,7 +94,7 @@
                 align-items: center;
                 opacity: 0;
                 animation: into-2-left-ani .5s forwards, into-2-left-bg-ani 5s infinite linear;
-                animation-delay: 2s;
+                animation-delay: 7s;
             }
 
             .link-item svg {
