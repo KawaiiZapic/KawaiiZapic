@@ -1,5 +1,3 @@
-### Hi there👋, money plz
-> 干啥啥不行,丢人第一名
 <table>
   <tr>
     <td>
@@ -9,12 +7,8 @@
 <img src="https://github.com/KawaiiZapic/KawaiiZapic/blob/master/\(.gif?raw=true" align="right" width="300"/> </td>
   </tr>
   </table>
-无名PHPer/CSSer/Javascripter,前后端三件套一把梭,还会`rm -rf`,`DROP DATABASE mysql`,算是个半栈工程师.  
-喜欢`可爱的`,`好吃的`,`可爱又好吃的`.  
-Now working in SBBBS,as a frontend developer.  
-对,还喜欢说散装英语.
 
-Find me at:  
+Follow me at:  
 \- [Home](https://i.zapic.moe/)  
 \- [Blog](https://blog.zapic.moe/)  
 \- [Twitter](https://twitter.com/KawaiiZapic)  
